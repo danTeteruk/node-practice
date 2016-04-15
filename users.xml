@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <users>
+    <user>
+      <id> 1 </id>
+      <name>igor</name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 24 </age>
+    </user>
+
+    <user>
+      <id> 2 </id>
+      <name>vasul</name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 21 </age>
+    </user>
+
+    <user>
+      <id> 3 </id>
+      <name>ivan</name>
+      <company> google </company>
+      <gender> male </gender>
+      <age> 27 </age>
+    </user>
+
+    <user>
+      <id> 4 </id>
+      <name>anna</name>
+      <company> yahoo! </company>
+      <gender> female </gender>
+      <age> 24 </age>
+    </user>
+
+    <user>
+      <id> 5 </id>
+      <name>oleg</name>
+      <company> google </company>
+      <gender> male </gender>
+      <age> 34 </age>
+    </user>
+
+    <user>
+      <id> 6 </id>
+      <name>roman</name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 23 </age>
+    </user>
+
+    <user>
+      <id> 7 </id>
+      <name>iryna</name>
+      <company> yahoo! </company>
+      <gender> female </gender>
+      <age> 27 </age>
+    </user>
+
+    <user>
+      <id> 8 </id>
+      <name>danulo</name>
+      <company> google </company>
+      <gender> male </gender>
+      <age> 21 </age>
+    </user>
+
+    <user>
+      <id> 9 </id>
+      <name>oleksandr</name>
+      <company> yahoo! </company>
+      <gender> male </gender>
+      <age> 44 </age>
+    </user>
+
+    <user>
+      <id> 10 </id>
+      <name>dmytro</name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 27 </age>
+    </user>
+
+    <user>
+      <id> 11 </id>
+      <name>orest</name>
+      <company> google </company>
+      <gender> male </gender>
+      <age> 44 </age>
+    </user>
+  </users>
