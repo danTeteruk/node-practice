@@ -1,5 +1,5 @@
-var organisation = require("./Organisation/index");
-var user = require("./User/index");
+var organisation = require("./Organisation");
+var user = require("./User");
 var fs = require("fs");
 var parse = require('xml-parser');
 var xml = fs.readFileSync('users.xml', 'utf8');
